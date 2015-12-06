@@ -9,7 +9,7 @@ Hu Moments ImageJ Plugin
  Installation
   ------------
   
-  1. Copy the ij.jar file to the ImageJ/Plugins folder
+  1. Copy the ij.jar file to the ImageJ/Plugins/jars folder
   2. Go to Help>Refresh Menus or (better) restart ImageJ.
   3. Copy the *.java files to the ImageJ/Plugins folder or subfolder.
   4. Go to the menu entry Plugins>Compile and Run… and select the Java file you copied.
