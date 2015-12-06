@@ -22,7 +22,7 @@ import ij.io.OpenDialog;
  * @author Julia Carmona
  * @author Náiron Galvez
  * @author Rodrigo Reis
- * @author Thais Ripa
+ * @author Tais Ripa
  * @version 1.0 Nov 25, 2015.
  */
 
