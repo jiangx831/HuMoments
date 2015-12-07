@@ -28,12 +28,12 @@ import ij.io.OpenDialog;
 
 public class MomentosHu_  extends Object{
 
-	//tamanho da imagem
-	static float nx;
+    //tamanho da imagem
+    static float nx;
     static float ny;
 
 	//acesso à imagem
-    public static ImageAccess input;
+        public static ImageAccess input;
 	public static ImagePlus imp;
 
 	//superfície e centro da gravidade
